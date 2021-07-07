@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**SIDTK365/SIDTK365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
  <h1>Hey there!, I'm Sid</h1>
  <h2> About Me</h2>
  <p>
@@ -29,19 +11,23 @@ Here are some ideas to get you started:
 </p>
 <h2>Some tools that I have worked With:</h2>
 <p>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
-<img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-basic.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
+ <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+ <img src="https://img.icons8.com/windows/48/000000/nodejs.png"/>
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://img.icons8.com/ios-glyphs/48/000000/mac-client.png"/>
+<img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+ <img src="https://img.icons8.com/ios-glyphs/48/000000/mac-client.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
  </p>
  <h3>Social Links:</h3>
 
 <a href="https://www.reddit.com/user/STK_365"> <img src="https://img.shields.io/reddit/user-karma/combined/STK_365?style=social?style=for-the-badge&logo=appveyor" ></a>
+<a href="https://www.linkedin.com/in/siddharth-singh-7155131a6/"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/linkedin.png" width=32px></a>
  
  
