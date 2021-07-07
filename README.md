@@ -20,10 +20,12 @@
  <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
  <img src="https://img.icons8.com/windows/48/000000/nodejs.png"/>
  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
- <img src="https://img.icons8.com/ios-glyphs/48/000000/mac-client.png"/>
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
  <img src="https://img.icons8.com/ios-glyphs/48/000000/mac-client.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/>
  </p>
  <h3>Social Links:</h3>
 
