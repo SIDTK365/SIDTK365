@@ -27,7 +27,7 @@
  </p>
  <h3>Social Links:</h3>
 
-<a href="https://www.reddit.com/user/STK_365"> <img src="https://img.shields.io/reddit/user-karma/combined/STK_365?style=social?style=for-the-badge&logo=appveyor" ></a>
+<a href="https://www.reddit.com/user/STK_365"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/reddit.png" width=32px></a>
 <a href="https://www.linkedin.com/in/siddharth-singh-7155131a6/"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/linkedin.png" width=32px></a>
  
  
