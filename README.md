@@ -1,4 +1,11 @@
- <h1>Hey there!, I'm Sid</h1>
+<h3 align="center">
+    Hi There!
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Sid!
+</h3>
  <h2> About Me</h2>
  <p>
  <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=appveyor">
