@@ -10,7 +10,7 @@
 
 
 <h2>My Portfolio - Personal Website:</h2>
-[Personal Portfolio 🔥](https://sid-pm.herokuapp.com/)
+(https://sid-pm.herokuapp.com/)
 <br>
 
 
