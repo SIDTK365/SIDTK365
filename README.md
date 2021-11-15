@@ -21,7 +21,7 @@
  <p>
  <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=appveyor">
  <img src="https://img.shields.io/badge/Lives%20in-Bhopal%2C%20India-green?style=for-the-badge&logo=appveyor">
- <img src="https://img.shields.io/badge/Studying%20at-SRM%20IST%20Delhi%20NCR-blue?style=for-the-badge&logo=appveyor">
+ <img src="https://img.shields.io/badge/Studying%20at-SRMIST%20Delhi%20NCR-blue?style=for-the-badge&logo=appveyor">
  <img src="https://img.shields.io/badge/Branch-Computer%20Science%20Engineering-red?style=for-the-badge&logo=appveyor">
  <ul>
   
