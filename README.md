@@ -16,8 +16,6 @@
 
 <h2>My Portfolio - Personal Website🔥:</h2>
 <h4>https://sid-pm.herokuapp.com/</h4>
-<br>
-
 
  <h2> About Me</h2>
  <p>
