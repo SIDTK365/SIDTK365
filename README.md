@@ -17,7 +17,7 @@
 <h2>My Portfolio - Personal Website🔥:</h2>
 <h4>https://sid-pm.herokuapp.com/</h4>
 
- <h2> About Me</h2>
+ <h2>🙋‍♂️ About Me</h2>
  <p>
  <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=appveyor">
  <img src="https://img.shields.io/badge/Lives%20in-Bhopal%2C%20India-green?style=for-the-badge&logo=appveyor">
@@ -27,7 +27,7 @@
   
   </ul>
 </p>
-<h2>Some tools that I have worked With:</h2>
+<h2>🚀 Languages and Tools:</h2>
 <p>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
