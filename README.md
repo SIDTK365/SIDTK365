@@ -9,8 +9,8 @@
 <!-- <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sid!</h1> -->
 <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" />!</h1>
+         height="70"
+         width="70" />!</h1>
 
 
 
