@@ -7,14 +7,26 @@
     I'm Sid!
 </h3> -->
 <!-- <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sid!</h1> -->
-<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+<h1 align="center"> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
+<h2>🙋‍♂️ About Me</h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 My name is Siddharth Singh & I am a 3rd-year undergraduate pursuing my B.Tech in Computer Science Engineering from SRMIST Delhi-NCR.
+
+- ⚡ I have a keen interest in Problem-Solving and Web Development.
+
+- 🛠 I have solved a lot of algorithmic problems on various websites like CodeChef, LeetCode & GeeksforGeeks.
+
+- 🗄️ I have done multiple projects in the field of Web Development.
+  
+- 👯 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field.
+  
+- 💬 So let’s have a coffee & code?
 
 
-
-<h2>My Portfolio - Personal Website🔥:</h2>
-<h4>https://sid-pm.herokuapp.com/</h4>
+<!-- <h2>My Portfolio - Personal Website🔥:</h2>
+<h4>https://sid-pm.herokuapp.com/</h4> -->
 
 <!--  <h2>🙋‍♂️ About Me</h2>
  <p>
@@ -60,11 +72,12 @@
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
  
 
 <h2>🔗 Social Links:</h2>
 <p>
+<a href="https://linktr.ee/STK_365"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" width=32px></a>
 <a href="https://www.reddit.com/user/STK_365"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/reddit.png" width=32px></a>
 <a href="https://www.linkedin.com/in/siddharth-singh-7155131a6/"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/linkedin.png" width=32px></a>
 </p>
