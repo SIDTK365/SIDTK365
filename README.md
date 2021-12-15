@@ -53,12 +53,19 @@
  
 <h2>📊 My Github Stats</h2>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark" width=500px height=200px>  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark&card_width=500" width=500px height=200px>
+<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark" width=500px height=200px>  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark&card_width=500" width=500px height=200px> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark)](https://github.com/SIDTK365/github-readme-stats) -->
  
+ [![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)]
+
+| ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
  
 
 <h2>🔗 Social Links:</h2>
