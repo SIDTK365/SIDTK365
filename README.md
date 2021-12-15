@@ -10,7 +10,7 @@
 <h1 align="center"> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <h2>🙋‍♂️ About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/programming.svg" />
 
 - 🔭 My name is Siddharth Singh & I am a 3rd-year undergraduate pursuing my B.Tech in Computer Science Engineering from SRMIST Delhi-NCR.
 
