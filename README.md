@@ -12,7 +12,7 @@
 <h2>🙋‍♂️ About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/programming.svg" />
 
-- 🔭 My name is Siddharth Singh & I am a 3rd-year undergraduate pursuing my B.Tech in Computer Science Engineering from SRMIST Delhi-NCR.
+- 🔭 My name is **Siddharth Singh** & I am a 3<sup>rd</sup> year undergraduate pursuing my B.Tech in Computer Science Engineering from SRMIST University.
 
 - ⚡ I have a keen interest in Problem-Solving and Web Development.
 
