@@ -66,7 +66,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark)](https://github.com/SIDTK365/github-readme-stats) -->
  
- [![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)]
+![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)
 
 | ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
