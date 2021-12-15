@@ -55,7 +55,9 @@
 
 ![github graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark" width = 500>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark)](https://github.com/SIDTK365/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark" width = 500 height= 200>  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark" width = 500 height= 200>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark)](https://github.com/SIDTK365/github-readme-stats) -->
  
  
 
