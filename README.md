@@ -6,22 +6,17 @@
          width="45" />
     I'm Sid!
 </h3> -->
-<h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sid!</h1>
-<!-- <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" 
-         alt="Waving hand animated gif"
-         height="70"
-         width="70" />!</h1> -->
+<!-- <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sid!</h1> -->
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 
-
-<!-- <h2>My Portfolio - Personal Website🔥:</h2>
-(https://sid-pm.herokuapp.com/)
-<br> -->
 
 <h2>My Portfolio - Personal Website🔥:</h2>
 <h4>https://sid-pm.herokuapp.com/</h4>
 
- <h2>🙋‍♂️ About Me</h2>
+<!--  <h2>🙋‍♂️ About Me</h2>
  <p>
  <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=appveyor">
  <img src="https://img.shields.io/badge/Lives%20in-Bhopal%2C%20India-green?style=for-the-badge&logo=appveyor">
@@ -29,7 +24,7 @@
  <img src="https://img.shields.io/badge/Branch-Computer%20Science%20Engineering-red?style=for-the-badge&logo=appveyor">
  <ul>
   
-  </ul>
+  </ul> -->
 </p>
 <h2>🚀 Languages and Tools:</h2>
 <p>
