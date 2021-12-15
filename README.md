@@ -60,5 +60,6 @@
 
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/SIDTK365/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
  
  
