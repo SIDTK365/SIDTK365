@@ -12,15 +12,15 @@
 <h2>🙋‍♂️ About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Developer1.svg" />
 
-- 🔭 My name is **Siddharth Singh** aka <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" width="40"> & I am a 3<sup>rd</sup> year undergraduate pursuing my B.Tech in Computer Science Engineering from SRMIST University.
+- 🔭 My name is **Siddharth Singh** aka <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" width="40"> & I am **a 3<sup>rd</sup> year** undergraduate pursuing my **B.Tech** in **Computer Science Engineering** from **SRM University**.
 
-- ⚡ I have a keen interest in Problem-Solving and Web Development.
+- ⚡ I have a keen interest in **Problem-Solving** & **Web Development**.
 
 - 🛠 I have solved a lot of algorithmic problems on various websites like CodeChef, LeetCode & GeeksforGeeks.
 
-- 🗄️ I have done multiple projects in the field of Web Development.
+- 💻 I have done multiple projects in the field of Web Development.
   
-- 👯 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field.
+- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field.
   
 - 💬 So let’s have a coffee & code?
 
@@ -79,8 +79,8 @@
 <h2>🔗 Social Links:</h2>
 <p>
 <a href="https://linktr.ee/STK_365"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/h90nveymaytblh5fldz8" width=32px></a>
-<a href="https://www.reddit.com/user/STK_365"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/reddit.png" width=32px></a>
-<a href="https://www.linkedin.com/in/siddharth-singh-7155131a6/"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/linkedin.png" width=32px></a>
+<!-- <a href="https://www.reddit.com/user/STK_365"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/reddit.png" width=32px></a> -->
+<!-- <a href="https://www.linkedin.com/in/siddharth-singh-7155131a6/"> <img src="https://github.com/SIDTK365/SIDTK365/blob/main/linkedin.png" width=32px></a> -->
 </p>
 
 
