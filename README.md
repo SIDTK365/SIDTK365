@@ -69,7 +69,7 @@
 | ![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)|
 | -- |
 
-| ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight) | ![SIDTK365 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDTK365&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
