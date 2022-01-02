@@ -62,16 +62,16 @@
 
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)
 
-<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark" width=500px height=200px>  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark&card_width=500" width=500px height=200px> -->
+<img src = "https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=dark&count_private=true" width=500px height=200px>  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark&card_width=500&count_private=true" width=500px height=200px> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=dark)](https://github.com/SIDTK365/github-readme-stats) -->
  
-| ![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark)|
+| ![STK's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SIDTK365&theme=react-dark&count_private=true)|
 | -- |
 
-| ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight) | ![SIDTK365 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDTK365&theme=tokyonight) |
+| ![STK's github stats](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&theme=tokyonight&count_private=true) | ![SIDTK365 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIDTK365&theme=tokyonight&count_private=true) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDTK365&theme=tokyonight&count_private=true) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SIDTK365&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical) -->
  
