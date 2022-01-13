@@ -20,7 +20,7 @@
 
 - 💻 I have done multiple projects in the field of Web Development.
   
-- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field.
+- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience in working in the field.
   
 - 💬 So let’s have a coffee & code?
 
