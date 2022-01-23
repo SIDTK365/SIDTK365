@@ -14,11 +14,11 @@
 
 - 🔭 My name is **Siddharth Singh** aka <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" width="40"> & I am **a 3<sup>rd</sup> year** undergraduate pursuing my **B.Tech** in **Computer Science Engineering** from **SRM University**.
 
-- ⚡ I have a keen interest in **Problem-Solving** & **Web Development**.
+- ⚡ I possess a keen interest in **Problem-Solving** & **Web Development**.
 
-- 🛠 I have solved a lot of algorithmic problems on various websites like CodeChef, LeetCode & GeeksforGeeks.
+- 🛠 I've solved a lot of algorithmic problems on various websites like CodeChef, LeetCode & GeeksforGeeks.
 
-- 💻 I have done multiple projects in the field of Web Development.
+- 💻 I've done multiple projects in the field of Web Development.
   
 - 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience in working in the field.
   
