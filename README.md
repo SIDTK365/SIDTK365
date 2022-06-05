@@ -7,10 +7,12 @@
     I'm Sid!
 </h3> -->
 <!-- <h1 align="center">Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sid!</h1> -->
-<h1 align="center"> Hello Fellow Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+<h1 align="center"> Hello Fellow Developers! 
+<!-- <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> -->
 <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/master/wave.gif" 
          alt="Waving hand animated gif"
-         width="30" />
+         height="70"
+         width="70" />
 </h1>
 
 <h2>🙋‍♂️ About Me</h2>
