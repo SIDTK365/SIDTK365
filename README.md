@@ -18,7 +18,7 @@
 <h2>🙋‍♂️ About Me</h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Developer1.svg" />
 
-- 🔭 My name is **Siddharth Singh** aka <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" width="40"> & I am **a 3<sup>rd</sup> year** undergraduate pursuing my **B.Tech** in **Computer Science Engineering** from **SRM University**.
+- 🔭 My name is **Siddharth Singh** aka <img src="https://raw.githubusercontent.com/SIDTK365/SIDTK365/main/Sid_logo.svg" width="40"> & I am **a 4<sup>th</sup> Year** undergraduate pursuing my **B.Tech** in **Computer Science Engineering** from **SRM University**.
 
 - ⚡ I possess a keen interest in **Problem-Solving** & **Web Development**.
 
