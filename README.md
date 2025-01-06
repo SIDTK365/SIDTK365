@@ -73,13 +73,15 @@
 
 </div>
 <!-- Coding Profiles -->
-## 💻 Coding Profiles
+<!-- Coding Profiles -->
+<h2 align="left">💻 Coding Profiles</h2>
 
 <div align="center">
-  <a href="https://leetcode.com/STK_365/">
+  <a href="https://leetcode.com/STK_365/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/stk365/">
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/stk365/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GeeksforGeeks-115%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
